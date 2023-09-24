@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.div-inicial{
+  display: flex;
+  flex-direction: column;
+}
+.titulo-inicial{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: greenyellow;
+  height: 100px;
+}
+
+.parrafo-principal{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aquamarine;
+  height: 100px;
+}
